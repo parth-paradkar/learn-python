@@ -9,6 +9,8 @@ Learn python from free material available on the internet.
 
 [Corey Schafer- Set up Development Environment](https://www.youtube.com/playlist?list=PL-osiE80TeTt66h8cVpmbayBKlMTuS55y)
 
+[Corey Schafer Linux Command Line](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)
+
 [sentdex python introduction](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
 
