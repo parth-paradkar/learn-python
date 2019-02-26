@@ -1,20 +1,34 @@
-### Learn python
+# Learn python
 Learn python from free material available on the internet.
 
-## Youtube video lectures
+***
 
-[Corey Schafer Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+### Youtube video lectures
 
-[Corey Schafer Git Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+***
 
-[Corey Schafer- Set up Development Environment](https://www.youtube.com/playlist?list=PL-osiE80TeTt66h8cVpmbayBKlMTuS55y)
+[Corey Scafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
-[Corey Schafer Linux Command Line](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)
+[Introduction to Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+[Git Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+
+[Set up Development Environment](https://www.youtube.com/playlist?list=PL-osiE80TeTt66h8cVpmbayBKlMTuS55y)
+
+[Linux Command Line](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)
+
+[OOP in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
+***
+
+[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 [sentdex python introduction](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
+***
+***
 
-## Github Profiles
+### Github Profiles
 
 [Sentdex](https://github.com/Sentdex)
 
