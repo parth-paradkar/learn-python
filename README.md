@@ -5,8 +5,6 @@ Learn python from free material available on the internet.
 
 ### Youtube video lectures
 
-***
-
 [Corey Scafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
 [Introduction to Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
