@@ -5,8 +5,6 @@ Learn python from free material available on the internet.
 
 ### Youtube video lectures
 
-[Corey Scafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-
 [Introduction to Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 [OOP in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
@@ -17,10 +15,6 @@ Learn python from free material available on the internet.
 
 [Linux Command Line](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)
 
-
-
-
-[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 [sentdex python introduction](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
