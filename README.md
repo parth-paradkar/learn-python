@@ -54,6 +54,8 @@ Sentdex:
 
 * [Data Visualization with matplotlib](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 
+* [Python Top 45 Articles for the Past Year (v.2018)](https://medium.mybridge.co/python-top-45-tutorials-for-the-past-year-v-2018-1b4d46c9e857)
+
 ### Random
 
 * [Code Radio](https://www.youtube.com/watch?v=KtGXRvUjy7o)
