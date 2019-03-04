@@ -52,5 +52,5 @@ Sentdex:
 
 ### Fun Stuff
 
-* [Music playlist for coding](https://www.youtube.com/watch?v=KtGXRvUjy7o)
+* [Code Radio](https://www.youtube.com/watch?v=KtGXRvUjy7o)
 
