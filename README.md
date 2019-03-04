@@ -1,4 +1,4 @@
-# Learn python
+# Learn Python
 
 ![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
@@ -43,6 +43,8 @@ Sentdex:
 * [Corey Schafer](https://github.com/CoreyMSchafer)
 
 ### Articles
+
+* [What you can do with Python](https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
 
 * [Installing Python for Windows](https://medium.com/kharagpur-open-source-society/installing-python-in-windows-ce059f644875)
 
