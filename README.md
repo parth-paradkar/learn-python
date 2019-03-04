@@ -52,6 +52,8 @@ Sentdex:
 
 * [The _ _name_ _ variable and its usage in Python](https://medium.freecodecamp.org/whats-in-a-python-s-name-506262fe61e8)
 
+* [Data Visualization with matplotlib](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+
 ### Random
 
 * [Code Radio](https://www.youtube.com/watch?v=KtGXRvUjy7o)
