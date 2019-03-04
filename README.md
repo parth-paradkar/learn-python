@@ -1,7 +1,8 @@
 # Learn python
-Learn python from free material available on the internet.
 
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiKwqfl_efgAhXJPI8KHVBeCTAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0xiYJ3Dyo94pym3Zn2-Nqp&ust=1551771577064331)
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
+Learn python from free material available on the internet.
 
 ***
 ### Youtube Channels
