@@ -29,6 +29,8 @@ Corey Schafer:
   * [Linux Command Line](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)
 
   * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+  
+  * [Web Scraping with BeautifulSoup an Requests](https://www.youtube.com/watch?v=ng2o98k983k&t=859s)
 
 Sentdex:
   
