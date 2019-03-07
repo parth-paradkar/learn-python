@@ -30,7 +30,7 @@ Corey Schafer:
 
   * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
   
-  * [Web Scraping with BeautifulSoup an Requests](https://www.youtube.com/watch?v=ng2o98k983k&t=859s)
+  * [Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k&t=859s)
 
 Sentdex:
   
