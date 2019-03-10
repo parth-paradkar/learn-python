@@ -60,6 +60,8 @@ Sentdex:
 
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
+* [Best Python books](https://realpython.com/best-python-books/)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
