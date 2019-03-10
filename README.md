@@ -62,11 +62,15 @@ Sentdex:
 
 * [Best Python books](https://realpython.com/best-python-books/)
 
+* [Best Python YouTube channels](https://realpython.com/python-youtube-channels/)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 
 * [Real Python](https://realpython.com/)
+
+* [CoreyMS](https://realpython.com/interview-corey-schafer/)
 
 
 ### Random
