@@ -81,4 +81,4 @@ Sentdex:
 
 * [Interview with Corey Schafer](https://realpython.com/interview-corey-schafer/)
 
-
+[Please read contributing instructions before submitting a PR](/CONTRIBUTING.md)
