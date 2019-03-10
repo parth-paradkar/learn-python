@@ -64,6 +64,8 @@ Sentdex:
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 
+* [Real Python](https://realpython.com/)
+
 
 ### Random
 
