@@ -75,4 +75,6 @@ Sentdex:
 
 * [Python Wikipedia Page](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+* [Interview with Corey Schafer](https://realpython.com/interview-corey-schafer/)
+
 
