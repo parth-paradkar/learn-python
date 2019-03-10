@@ -64,3 +64,6 @@ Sentdex:
 
 * [Code Radio](https://www.youtube.com/watch?v=KtGXRvUjy7o)
 
+* [Python Wikipedia Page](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+
