@@ -1,4 +1,4 @@
-### Abot contributing to this repo
+### About contributing to this repo
 1) Feel free to add resources you found useful in learning Python.
 2) Lesser known  and useful resources will be appreciated. 
 3) For Dummies:
