@@ -75,7 +75,7 @@ Sentdex:
 
 ### Random
 
-* [Code Radio](https://www.youtube.com/watch?v=KtGXRvUjy7o)
+* [Code Radio](https://www.youtube.com/watch?v=mXRfApkMYZU)
 
 * [Python Wikipedia Page](https://en.wikipedia.org/wiki/Python_(programming_language))
 
