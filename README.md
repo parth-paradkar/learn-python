@@ -64,6 +64,8 @@ Sentdex:
 
 * [Best Python YouTube channels](https://realpython.com/python-youtube-channels/)
 
+* [Rock the command line- Popular terminal commands](https://towardsdatascience.com/rock-the-command-line-52c4b2ea34b7)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
