@@ -35,7 +35,8 @@ Corey Schafer:
 Sentdex:
   
   * [sentdex python introduction](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
-
+  
+  * [Pandas Tutorial](https://www.youtube.com/watch?v=Iqjy9UqKKuo)
 
 
 ### Github Profiles
