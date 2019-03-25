@@ -79,6 +79,8 @@ Sentdex:
 
 * [Beginner Python exercises](http://www.practicepython.org/)
 
+* [Python Challenge](http://www.pythonchallenge.com/faq.php)
+
 
 ### Random
 
