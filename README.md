@@ -75,6 +75,10 @@ Sentdex:
 
 * [CoreyMS](https://realpython.com/interview-corey-schafer/)
 
+### Practice
+
+* [Beginner Python exercises](http://www.practicepython.org/)
+
 
 ### Random
 
