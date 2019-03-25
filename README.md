@@ -75,6 +75,8 @@ Sentdex:
 
 * [CoreyMS](https://realpython.com/interview-corey-schafer/)
 
+* [Git Handbook](https://git-scm.com/book/en/v2)
+
 ### Practice
 
 * [Beginner Python exercises](http://www.practicepython.org/)
