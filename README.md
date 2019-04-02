@@ -67,6 +67,8 @@ Sentdex:
 
 * [Rock the command line- Popular terminal commands](https://towardsdatascience.com/rock-the-command-line-52c4b2ea34b7)
 
+* [Understanding Python Virtual Environments(Medium member article)](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
