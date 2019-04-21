@@ -71,6 +71,8 @@ Sentdex:
 
 * [Understanding Python Virtual Environments(Medium member article)](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7)
 
+* [Build Slack app with Python](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
