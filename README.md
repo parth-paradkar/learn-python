@@ -73,6 +73,8 @@ Sentdex:
 
 * [Build Slack app with Python](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 
+* [Python docstrings](https://www.datacamp.com/community/tutorials/docstrings-python)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
