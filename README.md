@@ -75,6 +75,8 @@ Sentdex:
 
 * [Python docstrings](https://www.datacamp.com/community/tutorials/docstrings-python)
 
+* [How to write beautiful Python code with pep8](https://realpython.com/python-pep8/)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
