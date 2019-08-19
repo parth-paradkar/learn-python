@@ -77,6 +77,8 @@ Sentdex:
 
 * [How to write beautiful Python code with pep8](https://realpython.com/python-pep8/)
 
+* [Tips for Python Beginners](https://realpython.com/courses/python-beginner-tips/)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
