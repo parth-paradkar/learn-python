@@ -85,7 +85,7 @@ Sentdex:
 
 * [Real Python](https://realpython.com/)
 
-* [CoreyMS](https://realpython.com/interview-corey-schafer/)
+* [CoreyMS](https://coreyms.com/)
 
 * [Git Handbook](https://git-scm.com/book/en/v2)
 
